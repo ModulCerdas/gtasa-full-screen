@@ -1,0 +1,1 @@
+# gtasa-full-screen
