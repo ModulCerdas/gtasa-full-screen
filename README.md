@@ -1,1 +1,1 @@
-# gtasa-full-screen
+# Atasi Gta San Andreas Tidak Bisa Full Screen
